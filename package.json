@@ -1,0 +1,22 @@
+{
+  "name": "interg",
+  "version": "1.0.0",
+  "description": "Discovery Dev App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/llh9/interg.git"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "Landon Hinkle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/llh9/interg/issues"
+  },
+  "homepage": "https://github.com/llh9/interg#readme"
+}
